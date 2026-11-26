@@ -213,6 +213,24 @@ The system should maintain records of maintenance requests and their updates.
 
 
 
+
+Acceptance Criteria
+
+The Campus Maintenance Reporting and Tracking System will be considered acceptable when the following conditions are met:
+
+1.User Registration and Login: Students should be able to register and securely log in to the system.
+2.Maintenance Complaint Submission: Students should be able to submit maintenance complaints concerning issues such as faulty electrical appliances, leaking pipes, damaged hostel facilities, and other campus-related problems.
+3.Complaint Details: Students should be able to provide a clear description of the problem and specify its location.
+4.Complaint Tracking: Students should be able to view the status of their submitted complaints.
+5.Status Updates: The system should allow authorized maintenance personnel or administrators to update complaint statuses to Pending, In Progress, or Resolved.
+6.Complaint History: Students should be able to view previously submitted complaints and their resolutions.
+7.Administrative Access: Administrators should be able to view and manage complaints submitted by students.
+8.Successful Resolution: A complaint should only be marked as Resolved after the reported maintenance issue has been addressed.
+9.User-Friendly Interface: The system should be simple, accessible, and easy for students and administrators to navigate.
+10.Reliable Information: The system should accurately store submitted complaints and display updated information to users.
+
+
+
 14.NON-FUNCTIONAL REQUIREMENTS
 The proposed system should meet the following requirements:
 1.Usability
